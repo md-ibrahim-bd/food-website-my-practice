@@ -79,5 +79,25 @@ section .main .men-text h1{
     position: relative;
     top: -90px;
     left: 20px;
-    
+
+}
+section .main .men-text h1 span{
+    margin-left: 15px;
+    color: orange;
+    font-family: mv boli;
+    line-height: 22px;
+    font-size: 70px;
+}
+section .main .main-image img{
+    width: 700px;
+    position: relative;
+    left: 30px;
+}
+section p{
+    width: 650px;
+    text-align: justify;
+    position: relative;
+    left: 60px;
+    bottom: 120px;
+    line-height: 22px;
 }
